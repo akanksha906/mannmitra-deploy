@@ -4,3 +4,4 @@ transformers
 torch
 python-dotenv
 google-generativeai
+langdetect
